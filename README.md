@@ -1,7 +1,6 @@
 # Build A Simple Web Server With Golang
 
-![Alt text](https://drive.google.com/file/d/1BeWt0OC4llP2l8xnnFg7ovGX0_9PbGOB/view?usp=sharing "10,000 ft view")
-
+<img width="30px" src="https://drive.google.com/file/d/1BeWt0OC4llP2l8xnnFg7ovGX0_9PbGOB/view?usp=sharing" />
 
 / route → index.html file
 

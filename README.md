@@ -1,6 +1,8 @@
 # Build A Simple Web Server With Golang
-
-<img width="30px" src="https://drive.google.com/file/d/1BeWt0OC4llP2l8xnnFg7ovGX0_9PbGOB/view?usp=sharing" />
+ 
+<a href = "https://github.com/AlapanGhosh10/simple-go-web-server">
+   <img src = "https://drive.google.com/file/d/1BeWt0OC4llP2l8xnnFg7ovGX0_9PbGOB/view?usp=sharing"/>
+</a>
 
 / route → index.html file
 

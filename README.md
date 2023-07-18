@@ -1,7 +1,7 @@
 # Build A Simple Web Server With Golang
  
 <a href = "https://github.com/AlapanGhosh10/simple-go-web-server">
-   <iframe src="https://drive.google.com/file/d/1BeWt0OC4llP2l8xnnFg7ovGX0_9PbGOB/preview" width="640" height="480" allow="autoplay"></iframe>
+	<img src = "https://drive.google.com/file/d/1BeWt0OC4llP2l8xnnFg7ovGX0_9PbGOB/preview"/>
 </a>
 
 / route → index.html file

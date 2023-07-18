@@ -1,6 +1,6 @@
 # Build A Simple Web Server With Golang
  
-![alt text](https://drive.google.com/file/d/1BeWt0OC4llP2l8xnnFg7ovGX0_9PbGOB/preview)
+![1000ft View](https://drive.google.com/fuc?export=view&id=1BeWt0OC4llP2l8xnnFg7ovGX0_9PbGOB)
 
 / route → index.html file
 
